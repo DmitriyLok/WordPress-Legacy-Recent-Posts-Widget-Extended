@@ -1,0 +1,7 @@
+.widget_recent-posts-extended .wp-block-recent-posts-extended__list {
+    padding-left: 0;
+}
+
+.widget_recent-posts-extended .wp-block-recent-posts-extended__list li {
+    clear: both;
+}
